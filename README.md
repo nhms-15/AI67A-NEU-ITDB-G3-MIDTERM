@@ -33,6 +33,7 @@ Yêu cầu hệ thống:
 - MySQL Workbench, DBeaver, hoặc bất kỳ công cụ quản lý CSDL nào hỗ trợ chạy script SQL.
 
 Các bước thực thi:
+
 Để hệ thống hoạt động chính xác và không bị lỗi tham chiếu khóa ngoại, vui lòng chạy các tệp theo đúng thứ tự sau trên một CSDL mới hoàn toàn:
 1. Chạy toàn bộ lệnh trong schema.sql để khởi tạo cấu trúc.
 2. Chạy toàn bộ lệnh trong seed.sql để nạp dữ liệu giả lập.
