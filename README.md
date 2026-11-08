@@ -40,8 +40,8 @@ Dự án tuân thủ yêu cầu nộp bài với 4 tệp SQL riêng biệt, cầ
 Để hệ thống hoạt động chính xác và không bị lỗi tham chiếu khóa ngoại, vui lòng chạy các tệp theo đúng thứ tự sau trên một CSDL mới hoàn toàn:
 1. Chạy toàn bộ lệnh trong `schema.sql` để khởi tạo cấu trúc.
 2. Chạy toàn bộ lệnh trong `seed.sql` để nạp dữ liệu giả lập.
-3. Chạy các lệnh trong `views.sql` để khởi tạo các bảng ảo báo cáo.
-4. Mở `queries.sql` và bôi đen chạy từng câu truy vấn để xem kết quả thống kê tương ứng.
+3. Mở `queries.sql` và bôi đen chạy từng câu truy vấn để xem kết quả thống kê tương ứng.
+4. Chạy các lệnh trong `views.sql` để khởi tạo các bảng ảo báo cáo.
 ## 6. Công nghệ sử dụng
 - Hệ quản trị CSDL: MySQL
 - Ngôn ngữ: SQL (Structured Query Language)
