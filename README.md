@@ -1,4 +1,4 @@
-# Đề 09: Quản lý dịch vụ vệ sinh gia đình
+# Đề 09: Quản lý dịch vụ vệ sinh gia đình (`cleaning_mini`)
 Học phần: Nhập môn Cơ sở dữ liệu — Introduction to Database **(EP16.TOKT11120(126)_01)**
 
 Đơn vị: Khoa Khoa học Dữ liệu và Trí tuệ Nhân tạo **(FDA)** — Trường Công nghệ, Đại học Kinh tế Quốc dân **(NEU)**
