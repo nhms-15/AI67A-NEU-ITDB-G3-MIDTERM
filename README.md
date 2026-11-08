@@ -31,6 +31,7 @@ Dự án tuân thủ yêu cầu nộp bài với 4 tệp SQL riêng biệt, cầ
 Yêu cầu hệ thống:
 - MySQL Server (phiên bản 8.0 trở lên được khuyến nghị).
 - MySQL Workbench, DBeaver, hoặc bất kỳ công cụ quản lý CSDL nào hỗ trợ chạy script SQL.
+
 Các bước thực thi:
 Để hệ thống hoạt động chính xác và không bị lỗi tham chiếu khóa ngoại, vui lòng chạy các tệp theo đúng thứ tự sau trên một CSDL mới hoàn toàn:
 1. Chạy toàn bộ lệnh trong schema.sql để khởi tạo cấu trúc.
